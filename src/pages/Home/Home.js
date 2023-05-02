@@ -8,23 +8,23 @@ import Actions from '../../components/Actions/Actions';
 const list = [
   {
     id: 1,
-    label: 'Boleto conta luz',
+    label: 'Boleto conta de luz',
     value: '300,90',
-    date: '17/09/2022',
+    date: '02/05/2023',
     type: 0 // gastos,
   },
   {
     id: 2,
-    label: 'Pix cliente x',
+    label: 'Pix Recebido de Matheus josé',
     value: '500,00',
-    date: '12/04/2022',
+    date: '29/04/2023',
     type: 1 // receita,
   },
   {
     id: 3,
-    label: 'Pix cliente y',
+    label: 'Pix Recebido de Vinicius da silva',
     value: '1.500,00',
-    date: '07/01/2022',
+    date: '28/04/2023',
     type: 1 // receita,
   },
 ]
