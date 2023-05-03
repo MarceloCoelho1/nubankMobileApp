@@ -27,6 +27,15 @@ const list = [
     date: '28/04/2023',
     type: 1 // receita,
   },
+  {
+    id: 4,
+    label: 'Conta de água',
+    value: '100,00',
+    date: '13/04/2023',
+    type: 0 // receita,
+  },
+
+  
 ]
 
 export default function Home() {
