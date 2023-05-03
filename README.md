@@ -1,7 +1,7 @@
 # Clone da Tela Inicial do Nubank em React Native
 
 Este é um projeto desenvolvido em React Native com o objetivo de clonar a tela inicial do Nubank, com o propósito de estudar essa tecnologia
-Para posteriormente criar um projeto pessoal de ponta a ponta.
+para posteriormente criar um projeto pessoal de ponta a ponta.
 
 <img src="./imgPreview.jpeg" alt="Preview do projeto" width="300"/>
 
